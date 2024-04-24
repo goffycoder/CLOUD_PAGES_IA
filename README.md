@@ -104,7 +104,7 @@ We wil use ``` docker compose ``` to create a multi-container setup.
     1. ```bash 
         docker build -t "react-app" ./client/ 
         ```
-        ![image info](./ss/react.png)
+        ![image info](./ss/react_build.png)
         docker desktop:
         ![image info](./ss/docker_react_image.png)
 
