@@ -1,4 +1,6 @@
 # Cloud Computing
+# 21BCP362
+# G-11 , Div-6 , Sem-6
 
 ## Problem Statement:
 Create any three-tier application using Docker, using a multi-container setup. Build at least one docker image using Dockerfile. You are free to use your old projects, build new projects or take any project from GitHub. However, if you are using a project from Github, properly cite the original author of the code in your blog. 
@@ -147,8 +149,8 @@ We wil use ``` docker compose ``` to create a multi-container setup.
     ![image info](./ss/movie_mongo.png)
 
 11. Push Images to DockerHub
-    ![image info](./ss/17.png)
+    ![image info](./ss/dockerhub_frontend_push.png)
 
-    ![image info](./ss/18.png)
+    ![image info](./ss/docker_hub_backend_push.png)
 
-    ![image info](./ss/19.png)
+    ![image info](./ss/dockerhub.png)
