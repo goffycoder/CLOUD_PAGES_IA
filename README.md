@@ -1,6 +1,5 @@
 # Cloud Computing
-# 21BCP362
-# G-11 , Div-6 , Sem-6
+# 21BCP362 G-11 , Div-6 , Sem-6
 
 ## Problem Statement:
 Create any three-tier application using Docker, using a multi-container setup. Build at least one docker image using Dockerfile. You are free to use your old projects, build new projects or take any project from GitHub. However, if you are using a project from Github, properly cite the original author of the code in your blog. 
@@ -92,7 +91,7 @@ We wil use ``` docker compose ``` to create a multi-container setup.
     1. ``` client/src/api/index.js ```
         ```js
         const api = axios.create({
-        baseURL: 'http://localhost:5000/api',
+        baseURL: 'http://localhost:5500/api',
         })
         ```
     2. ``` server/db/index.js ``` <br>
